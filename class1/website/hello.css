@@ -1,0 +1,6 @@
+.hello
+{
+background-image: linear-gradient(to right, black 0%,white 100%), url('wwe-LOGO.jgp');
+    background-blend-mode:saturation;
+    color: cyan;
+}

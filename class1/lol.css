@@ -1,0 +1,38 @@
+#rofl{
+
+	background: gray;
+	color:black;
+	font-size: 10px;
+
+}
+/*#lmao{ color: blue; }
+#lmao1{ color: yellow; }*/
+.what{ color: brown; }
+div
+{
+	color: red;
+	background: yellow;
+	padding-left: 30px;
+	padding-right: 40px;
+	padding-top: 50px;
+	padding-bottom: 60px;
+	border-color: blue;
+	border-style: solid;
+	border-left-width: 10px;
+	border-right-width: 20px;
+	border-top-width: 30px;
+	border-bottom-width: 40px;
+	border-left-color: white;
+	border-right-color: black;
+	border-bottom-color: pink;
+	border-top-color: cyan;
+	 margin-top:   50px;
+	 margin-bottom: 25px;
+
+}
+body
+{
+	background: black;
+	color:gray;
+	font-size: 10px;
+}

@@ -1,0 +1,32 @@
+/*#abc
+{
+	align-content: right;
+}
+#bcd
+{
+	align-content: left;
+}*/
+/*body {
+     background-color: #444;
+     margin-top: 0;
+     margin-bottom: 0;
+}*/
+
+
+#abc {
+     border-left-width: 10px;
+	border-right-width: 10px;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+     float: left;
+     color: cyan;
+}
+
+#bcd {
+     border-left-width: 10px;
+	border-right-width: 10px;
+	border-top-width: 10px;
+	border-bottom-width: 10px;
+     float: right;
+     color: cyan;
+}
